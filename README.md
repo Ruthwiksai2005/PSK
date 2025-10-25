@@ -140,11 +140,10 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
-```
+
 <img width="1142" height="726" alt="image" src="https://github.com/user-attachments/assets/e172144c-1353-46dc-98f4-7661a5147ee7" />
 <img width="963" height="551" alt="image" src="https://github.com/user-attachments/assets/4e8d4bc8-2b2d-4cb3-84ac-c50a6e4ed73b" />
 
-```
 # Results
 Thus,the modulation and demodulation of PSK and QPSK was done using google colab.
 
